@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE law-inforcement-accindentally-killed [
+	<!ELEMENT law-inforcement (geographic)>
+	<!ELEMENT geographic (region, total-victims, year-2011, year-2012, year-2013, year-2014, year-2015, year-2016, year-2017, year-2018, year-2019, year-2020)>
+
+	<!ELEMENT geographic (#PCDATA)>
+	<!ELEMENT region (#PCDATA)>
+	<!ELEMENT total-victims (#PCDATA)>
+	<!ELEMENT year-2011 (#PCDATA)>
+	<!ELEMENT year-2012 (#PCDATA)>
+	<!ELEMENT year-2013 (#PCDATA)>
+	<!ELEMENT year-2014 (#PCDATA)>
+	<!ELEMENT year-2015 (#PCDATA)>
+	<!ELEMENT year-2016 (#PCDATA)>
+	<!ELEMENT year-2017 (#PCDATA)>
+	<!ELEMENT year-2018 (#PCDATA)>
+	<!ELEMENT year-2019 (#PCDATA)>
+	<!ELEMENT year-2020 (#PCDATA)>
+
+]>
+
+<law-inforcement-accindentally-killed>
+	<geographic>
+		<region> NORTHEAST </region>
+		<total-victims>56</total-victims>
+		<year-2011>8</year-2011>
+		<year-2012>9</year-2012>
+		<year-2013>5</year-2013>
+		<year-2014>8</year-2014>
+		<year-2015>5</year-2015>
+		<year-2016>5</year-2016>
+		<year-2017>6</year-2017>
+		<year-2018>5</year-2018>
+		<year-2019>3</year-2019>
+		<year-2020>2</year-2020>
+	</geographic>
+
+	<geographic>
+		<region> New England </region>
+		<total-victims>12</total-victims>
+		<year-2011>2</year-2011>
+		<year-2012>4</year-2012>
+		<year-2013>0</year-2013>
+		<year-2014>1</year-2014>
+		<year-2015>0</year-2015>
+		<year-2016>1</year-2016>
+		<year-2017>1</year-2017>
+		<year-2018>1</year-2018>
+		<year-2019>1</year-2019>
+		<year-2020>1</year-2020>
+	</geographic>
+
+	<geographic>
+		<region> Connecticut </region>
+		<total-victims>1</total-victims>
+		<year-2011>0</year-2011>
+		<year-2012>0</year-2012>
+		<year-2013>0</year-2013>
+		<year-2014>0</year-2014>
+		<year-2015>0</year-2015>
+		<year-2016>0</year-2016>
+		<year-2017>0</year-2017>
+		<year-2018>1</year-2018>
+		<year-2019>0</year-2019>
+		<year-2020>0</year-2020>
+	</geographic>
+
+	<geographic>
+		<region> Maine </region>
+		<total-victims>3</total-victims>
+		<year-2011>1</year-2011>
+		<year-2012>0</year-2012>
+		<year-2013>0</year-2013>
+		<year-2014>0</year-2014>
+		<year-2015>0</year-2015>
+		<year-2016>0</year-2016>
+		<year-2017>1</year-2017>
+		<year-2018>0</year-2018>
+		<year-2019>1</year-2019>
+		<year-2020>0</year-2020>
+	</geographic>
+
+	<geographic>
+		<region> Massachusetts </region>
+		<total-victims>7</total-victims>
+		<year-2011>1</year-2011>
+		<year-2012>3</year-2012>
+		<year-2013>0</year-2013>
+		<year-2014>1</year-2014>
+		<year-2015>0</year-2015>
+		<year-2016>1</year-2016>
+		<year-2017>0</year-2017>
+		<year-2018>0</year-2018>
+		<year-2019>0</year-2019>
+		<year-2020>1</year-2020>
+	</geographic>
+
+	<geographic>
+		<region> New Hampshire </region>
+		<total-victims>0</total-victims>
+		<year-2011>0</year-2011>
+		<year-2012>0</year-2012>
+		<year-2013>0</year-2013>
+		<year-2014>0</year-2014>
+		<year-2015>0</year-2015>
+		<year-2016>0</year-2016>
+		<year-2017>0</year-2017>
+		<year-2018>0</year-2018>
+		<year-2019>0</year-2019>
+		<year-2020>0</year-2020>
+	</geographic>
+
+	<geographic>
+		<region> Rhode Island </region>
+		<total-victims>1</total-victims>
+		<year-2011>0</year-2011>
+		<year-2012>1</year-2012>
+		<year-2013>0</year-2013>
+		<year-2014>0</year-2014>
+		<year-2015>0</year-2015>
+		<year-2016>0</year-2016>
+		<year-2017>0</year-2017>
+		<year-2018>0</year-2018>
+		<year-2019>0</year-2019>
+		<year-2020>0</year-2020>
+	</geographic>
+
+	<geographic>
+		<region> Vermont </region>
+		<total-victims>0</total-victims>
+		<year-2011>0</year-2011>
+		<year-2012>0</year-2012>
+		<year-2013>0</year-2013>
+		<year-2014>0</year-2014>
+		<year-2015>0</year-2015>
+		<year-2016>0</year-2016>
+		<year-2017>0</year-2017>
+		<year-2018>0</year-2018>
+		<year-2019>0</year-2019>
+		<year-2020>0</year-2020>
+	</geographic>
+
+	<geographic>
+		<region> Middle Atlantic </region>
+		<total-victims>44</total-victims>
+		<year-2011>6</year-2011>
+		<year-2012>5</year-2012>
+		<year-2013>5</year-2013>
+		<year-2014>7</year-2014>
+		<year-2015>5</year-2015>
+		<year-2016>4</year-2016>
+		<year-2017>5</year-2017>
+		<year-2018>4</year-2018>
+		<year-2019>2</year-2019>
+		<year-2020>1</year-2020>
+	</geographic>
+
+	<geographic>
+		<region> New Jersey </region>
+		<total-victims>12</total-victims>
+		<year-2011>1</year-2011>
+		<year-2012>1</year-2012>
+		<year-2013>0</year-2013>
+		<year-2014>2</year-2014>
+		<year-2015>3</year-2015>
+		<year-2016>2</year-2016>
+		<year-2017>1</year-2017>
+		<year-2018>2</year-2018>
+		<year-2019>0</year-2019>
+		<year-2020>0</year-2020>
+	</geographic>
+
+</law-inforcement-accindentally-killed>
